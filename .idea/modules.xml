@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FootballApp2.iml" filepath="$PROJECT_DIR$/.idea/modules/FootballApp2.iml" group="FootballApp2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FootballApp2-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FootballApp2-app.iml" group="FootballApp2/app" />
+      <module fileurl="file://$PROJECT_DIR$/KotlinSub2.iml" filepath="$PROJECT_DIR$/KotlinSub2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
